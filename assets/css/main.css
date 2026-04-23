@@ -28,7 +28,7 @@ body {
 
 body {
   background: #151515;
-  font-family: "lora-regular", serif;
+  font-family: "inter", serif;
   font-size: 1.7rem;
   line-height: 3rem;
   color: #6e6e6e;
@@ -108,7 +108,7 @@ h5 {
 }
 
 p.lead {
-  font-family: 'pt serif', serif;
+  font-family: 'poppins', serif;
   font-size: 2rem;
   line-height: 1.8;
   color: #888;
@@ -406,11 +406,11 @@ button.stroke:hover,
 }
 
 .section-intro h1 {
-  font-family: "poppins-semibold", serif;
+  font-family: "pt", serif;
   font-size: 3.6rem;
   color: #121111;
   line-height: 1.25;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 }
 
 .section-intro h5 {
@@ -926,13 +926,13 @@ button.stroke:hover,
 }
 p.lead {
     color: black !important;
-    font-size: 2.3rem !important;
+    font-size: 2rem !important;
     line-height: inherit;
 }
 p {
     font-size: 1.7rem;
     color: #121111;
-    font-family: 'pt serif';
+    font-family: 'poppins' , sans-serif;
     line-height: 2.6rem;
 }
 #resume .timeline-ico {
