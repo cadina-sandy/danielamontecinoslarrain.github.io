@@ -37,7 +37,7 @@ El CV fue desplegado en GitHub Pages, configurando el archivo principal como pá
 
 Se realizaron forks de proyectos de al menos dos compañeros para practicar el flujo de trabajo colaborativo en GitHub.
  1- https://github.com/Camilo-Bastian-Sanchez/Camilo-Bastian-Sanchez.github.io
- 2- 
+ 2- https://github.com/camilomolina/desafio-latam_module-1_06-exam
 
 ### 5. Commits en proyectos forkeados
 
