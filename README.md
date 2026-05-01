@@ -43,11 +43,9 @@ Se realizaron forks de proyectos de al menos dos compañeros para practicar el f
 
 Se realizó al menos un commit en cada proyecto forkeado, cumpliendo con el flujo:
 
-```bash
-git add .
-git commit -m "mensaje del commit"
-git push origin main
 
 ---
 
-Este es el cambio Añadido por Sandy para el commit necesario del Fork <3
+#Este es el cambio Añadido por Sandy para el commit necesario del Fork <3
+
+---
