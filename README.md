@@ -46,6 +46,6 @@ Se realizó al menos un commit en cada proyecto forkeado, cumpliendo con el fluj
 
 ---
 
-#Este es el cambio Añadido por Sandy para el commit necesario del Fork <3
+## Este es el cambio Añadido por Sandy para el commit necesario del Fork <3
 
 ---
