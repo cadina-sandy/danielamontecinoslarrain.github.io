@@ -47,3 +47,7 @@ Se realizó al menos un commit en cada proyecto forkeado, cumpliendo con el fluj
 git add .
 git commit -m "mensaje del commit"
 git push origin main
+
+---
+
+Este es el cambio Añadido por Sandy para el commit necesario del Fork <3
